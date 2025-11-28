@@ -14,8 +14,6 @@ It includes complete **EDA**, **data preprocessing**, **model training**, **eval
 Performed using:
 - pandas, numpy  
 - plotly (interactive visualizations)  
-- seaborn & matplotlib  
-Includes:
 - Data overview  
 - Summary statistics  
 - Missing values check  
