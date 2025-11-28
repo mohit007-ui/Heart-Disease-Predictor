@@ -106,14 +106,13 @@ Pickle model deployment
 
 🗂️ Project Structure
 HeartDiseasePredictor/
-│── app.py                           → Streamlit web app
-│── HeartDiseasePrediction.ipynb     → EDA + Model Training Notebook
-│── models/
-│     ├── LogisticR.pkl
-│     ├── DT.pickle
-│     └── RF.pickle
+│── DT.pickle
+│── HeartDiseasePrediction.ipynb
+│── LogisticR.pkl
 │── README.md
-│── data/ (optional sample dataset)
+│── RF.pickle
+│── app.py
+│── heart.csv
 
 
 Dataset Source: Heart Failure Prediction Dataset (Kaggle)
